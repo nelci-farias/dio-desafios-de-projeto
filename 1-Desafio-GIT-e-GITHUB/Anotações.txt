@@ -1,0 +1,4 @@
+Criei o repositório no Git Hub e clonei para a minha máquina local através do git clone;
+Criei algumas pastas com mkdir para organizar o repositório de desafios da DIO, onde criarei uma pasta para cada desafio;
+Movi arquivos e pastas com o mv ;
+Incluí alguns arquivos .java de estudos iniciais de um curso que faço em paralelo ao bootcamp.
