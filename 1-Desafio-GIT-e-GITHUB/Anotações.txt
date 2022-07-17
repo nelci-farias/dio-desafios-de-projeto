@@ -2,3 +2,5 @@ Criei o repositório no Git Hub e clonei para a minha máquina local através do
 Criei algumas pastas com mkdir para organizar o repositório de desafios da DIO, onde criarei uma pasta para cada desafio;
 Movi arquivos e pastas com o mv ;
 Incluí alguns arquivos .java de estudos iniciais de um curso que faço em paralelo ao bootcamp.
+Utilizados todos os comandos mencionados pelo professor.
+git init, git echo, git add (nome do arquivo ou todos *), git status, ls, git commit -m "apelido para o commit", git push origin, git pull origin, git rm (pra remover os arquivos e diretório que criei enquanto assistia as aulas). 
